@@ -76,7 +76,7 @@ function blowCandles() {
         colors: ['#ff4d6d', '#ffffff', '#ffccd5']
     });
 
-    message.innerText = "That was just the beginning. I Hope u are .";
+    message.innerText = "That was just the beginning. I hope you have the best day ever, Bro!  HINT: ur first gift is an activity XD "
 }
 // If images are loading with incorrect dimensions
 function fixImageSizing() {
